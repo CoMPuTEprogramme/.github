@@ -1,3 +1,5 @@
+![ComPuTE Logo](CoMPuTE Logo.jpg)
+
 ## Hi there 👋
 
 <!--
