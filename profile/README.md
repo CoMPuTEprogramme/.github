@@ -2,9 +2,13 @@
 <img src="https://github.com/CoMPuTEprogramme/.github/blob/628c57a3a2734779905731779515c072b6093cee/profile/CoMPuTE%20Logo.jpg" width="500" height="500"/>
 </div>
 
-<h1 style="text-align: center;">Welcome to CoMPuTE 👋</h1>
+<p> </p>
 
-# Welcome to CoMPuTE 👋
+<div align="center">
+  <h1 style="text-align: center;">Welcome to CoMPuTE 👋</h1>
+</div>
+
+
 
 <!--
 
