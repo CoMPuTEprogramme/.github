@@ -1,6 +1,10 @@
-![ComPuTE Logo](profile/CoMPuTE Logo.jpg)
+<div align="center">
+<img src="https://github.com/CoMPuTEprogramme/.github/blob/628c57a3a2734779905731779515c072b6093cee/profile/CoMPuTE%20Logo.jpg" width="500" height="500"/>
+</div>
 
-## Hi there 👋
+<h1 style="text-align: center;">Welcome to CoMPuTE 👋</h1>
+
+# Welcome to CoMPuTE 👋
 
 <!--
 
