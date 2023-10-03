@@ -1,4 +1,4 @@
-![ComPuTE Logo](CoMPuTE Logo.jpg)
+![ComPuTE Logo](profile/CoMPuTE Logo.jpg)
 
 ## Hi there 👋
 
