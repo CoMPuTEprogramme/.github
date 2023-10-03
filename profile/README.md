@@ -6,6 +6,7 @@
 
 <div align="center">
   <h1 style="text-align: center;">Welcome to CoMPuTE 👋</h1>
+  <h3 style="text-align: center;">Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints</h3>
 </div>
 
 
