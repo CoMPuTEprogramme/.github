@@ -10,8 +10,9 @@
 </div>
 
 #### Acknowledgment and Disclaimer
-```This project is funded by the NIHR Programme Grants for Applied Research Programme (NIHR204406). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.``
-<img src="https://www.phc.ox.ac.uk/images/images/compute-logic-map-simplified.jpg" width="40%" height="40%"/>
+```This project is funded by the NIHR Programme Grants for Applied Research Programme (NIHR204406). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.```
+
+<img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="40%" height="40%"/>
 
 ## Project Details
 
